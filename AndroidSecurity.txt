@@ -1,0 +1,106 @@
+MODE_WORLD_READABLE
+MODE_WORLD_WRITEABLE
+MODE_PRIVATE
+.firebaseio.com
+SharedPreferences
+FileOutPutStream
+getExternal
+getWritableDatabase
+getReadableDatabase
+getCacheDir
+getExternalCacheDirs
+isInsideSecureHardware
+/data/misc/keystore/
+AndroidKeystore
+import java.security.KeyStore
+import java.security.SecureRandom
+import javax.crypto.Cipher
+android.util.Log
+Log.d
+Log.e
+Log.i
+Log.v
+Log.w
+Log.wtf
+Logger
+System.out.print
+System.err.print
+logfile
+logging
+logs
+android.content.ContentProvider
+android.database.Cursor
+android.database.sqlite
+.query
+.update
+.delete
+android:inputType="textPassword"
+Cipher
+Mac
+MessageDigest
+Signature
+Key
+PrivateKey
+PublicKey
+SecretKey
+setUserAuthenticationRequired
+BiometricPrompt
+FingerprintManager
+setUserAuthenticationRequired(true)
+CryptoObject
+checkClientTrusted
+checkServerTrusted
+getAcceptedIssuers
+android:targetSdkVersion
+WebView
+loadUrl
+setJavaScriptEnabled
+setAllowContentAccess
+setAllowFileAccess
+setAllowFileAccessFromFileURLs
+setAllowUniversalAccessFromFileURLs
+import java.io.Serializable
+implements Serializable
+import org.json.JSONObject;
+import org.json.JSONArray;
+import com.google.gson
+import com.google.gson.annotations
+import com.google.gson.reflect
+import com.google.gson.stream
+new Gson();
+@Expose 
+@JsonAdapter 
+@SerializedName 
+@Since @Until
+import com.fasterxml.jackson.core
+import org.codehaus.jackson
+import com.j256.*
+import com.j256.dao
+import com.j256.db
+import com.j256.stmt
+import com.j256.table
+import com.github.satyan
+extends SugarRecord<Type>
+import org.greenrobot.greendao.annotation.Convert
+import org.greenrobot.greendao.annotation.Entity
+import org.greenrobot.greendao.annotation.Generated
+import org.greenrobot.greendao.annotation.Id
+import org.greenrobot.greendao.annotation.Index
+import org.greenrobot.greendao.annotation.NotNull
+import org.greenrobot.greendao.annotation.*
+import org.greenrobot.greendao.database.Database
+import org.greenrobot.greendao.query.Query
+ActiveAndroid.initialize(<contextReference>);
+import com.activeandroid.Configuration
+import com.activeandroid.query.*
+import io.realm.RealmObject;
+import io.realm.annotations.PrimaryKey;
+minifyEnabled
+proguardFiles
+-keepclassmembers
+-keep class
+Build.SERIAL
+htc.camera.sensor.front_SN
+persist.service.bdroid.bdadd
+Settings.Secure.bluetooth_address
+WifiInfo.getMacAddress
